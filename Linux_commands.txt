@@ -1,0 +1,10 @@
+
+pwd: shows which file you're at
+
+ls: list out available files
+
+mkdir: create new file
+
+./:  move back a file
+
+vim: editor/ notepad
